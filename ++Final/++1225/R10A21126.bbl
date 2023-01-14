@@ -1,0 +1,409 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Dietsch2016}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=c3074ea0f0bc0982aed2339621311155}{%
+           family={Dietsch},
+           familyi={D\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ef5f68e9dd53d3f55ff2242d20329e54}{%
+           family={Rixen},
+           familyi={R\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ECPR Press}%
+      }
+      \strng{namehash}{72d7f480aeb16fc5e9b99a36eb6cf9cc}
+      \strng{fullhash}{72d7f480aeb16fc5e9b99a36eb6cf9cc}
+      \strng{bibnamehash}{72d7f480aeb16fc5e9b99a36eb6cf9cc}
+      \strng{editorbibnamehash}{72d7f480aeb16fc5e9b99a36eb6cf9cc}
+      \strng{editornamehash}{72d7f480aeb16fc5e9b99a36eb6cf9cc}
+      \strng{editorfullhash}{72d7f480aeb16fc5e9b99a36eb6cf9cc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \true{singletitle}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Global Tax Governance: What Is Wrong with It and How to Fix It}
+      \field{year}{2016}
+    \endentry
+    \entry{Michaels2013}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cc298e7d0ece70e46a8bb145c4b6e8d6}{%
+           family={Michaels},
+           familyi={M\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc298e7d0ece70e46a8bb145c4b6e8d6}
+      \strng{fullhash}{cc298e7d0ece70e46a8bb145c4b6e8d6}
+      \strng{bibnamehash}{cc298e7d0ece70e46a8bb145c4b6e8d6}
+      \strng{authorbibnamehash}{cc298e7d0ece70e46a8bb145c4b6e8d6}
+      \strng{authornamehash}{cc298e7d0ece70e46a8bb145c4b6e8d6}
+      \strng{authorfullhash}{cc298e7d0ece70e46a8bb145c4b6e8d6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{2240898}
+      \field{shorttitle}{Globalization and Law}
+      \field{title}{Globalization and Law: Law Beyond the State}
+      \field{year}{2013}
+    \endentry
+    \entry{Mabel2022}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=5c799d13e01ccee211e3cbe98ebbc45b}{%
+           family={Mabel},
+           familyi={M\bibinitperiod},
+           given={Atty.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e30ba5ed88121f679a7d9972b5144f3c}{%
+           family={Buted},
+           familyi={B\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{53d9a8dc771ffa5209190ac5789a7cda}
+      \strng{fullhash}{53d9a8dc771ffa5209190ac5789a7cda}
+      \strng{bibnamehash}{53d9a8dc771ffa5209190ac5789a7cda}
+      \strng{authorbibnamehash}{53d9a8dc771ffa5209190ac5789a7cda}
+      \strng{authornamehash}{53d9a8dc771ffa5209190ac5789a7cda}
+      \strng{authorfullhash}{53d9a8dc771ffa5209190ac5789a7cda}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Tax Compliance Is Important}
+      \field{year}{2022}
+    \endentry
+    \entry{Christensen2016}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0e3b50ba6cc6bc922e3ebe9d0e3aac4c}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Rasmus\bibnamedelima Corlin},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e3b50ba6cc6bc922e3ebe9d0e3aac4c}
+      \strng{fullhash}{0e3b50ba6cc6bc922e3ebe9d0e3aac4c}
+      \strng{bibnamehash}{0e3b50ba6cc6bc922e3ebe9d0e3aac4c}
+      \strng{authorbibnamehash}{0e3b50ba6cc6bc922e3ebe9d0e3aac4c}
+      \strng{authornamehash}{0e3b50ba6cc6bc922e3ebe9d0e3aac4c}
+      \strng{authorfullhash}{0e3b50ba6cc6bc922e3ebe9d0e3aac4c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Book Review: Global Tax Governance –{} What Is Wrong with It and How to Fix It | Institute for Social Change News}
+      \field{year}{2016}
+    \endentry
+    \entry{Dietsch2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c3074ea0f0bc0982aed2339621311155}{%
+           family={Dietsch},
+           familyi={D\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{c3074ea0f0bc0982aed2339621311155}
+      \strng{fullhash}{c3074ea0f0bc0982aed2339621311155}
+      \strng{bibnamehash}{c3074ea0f0bc0982aed2339621311155}
+      \strng{authorbibnamehash}{c3074ea0f0bc0982aed2339621311155}
+      \strng{authornamehash}{c3074ea0f0bc0982aed2339621311155}
+      \strng{authorfullhash}{c3074ea0f0bc0982aed2339621311155}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{02602105, 14699044}
+      \field{journaltitle}{Review of International Studies}
+      \field{number}{5}
+      \field{title}{Rethinking Sovereignty in International Fiscal Policy}
+      \field{volume}{37}
+      \field{year}{2011}
+      \field{pages}{2107\bibrangedash 2120}
+      \range{pages}{14}
+    \endentry
+    \entry{Hoxhaj2022}{article}{}
+      \name{author}{2}{}{%
+        {{hash=64959874735103459e772caa5b50f0f6}{%
+           family={Hoxhaj},
+           familyi={H\bibinitperiod},
+           given={Meleq},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a5420c31bfe6be7519662b769cc7e462}{%
+           family={Kamolli},
+           familyi={K\bibinitperiod},
+           given={Erjus},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{adb95fd89b7c005201c8927bdd183e74}
+      \strng{fullhash}{adb95fd89b7c005201c8927bdd183e74}
+      \strng{bibnamehash}{adb95fd89b7c005201c8927bdd183e74}
+      \strng{authorbibnamehash}{adb95fd89b7c005201c8927bdd183e74}
+      \strng{authornamehash}{adb95fd89b7c005201c8927bdd183e74}
+      \strng{authorfullhash}{adb95fd89b7c005201c8927bdd183e74}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Economics and Business Studies}
+      \field{month}{1}
+      \field{title}{Factors Influencing Tax Evasion of Businesses: The Case of Albania}
+      \field{volume}{8}
+      \field{year}{2022}
+      \field{pages}{48\bibrangedash 64}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.26417/233qcq96
+      \endverb
+    \endentry
+    \entry{OECD_BEPS}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.oecd.org/tax/beps/}
+      \field{title}{Base Erosion and Profit Shifting - OECD BEPS}
+    \endentry
+    \entry{Snowden2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2cf573319a02df313166c87e97cd84e4}{%
+           family={Snowden},
+           familyi={S\bibinitperiod},
+           given={Hunter},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cf573319a02df313166c87e97cd84e4}
+      \strng{fullhash}{2cf573319a02df313166c87e97cd84e4}
+      \strng{bibnamehash}{2cf573319a02df313166c87e97cd84e4}
+      \strng{authorbibnamehash}{2cf573319a02df313166c87e97cd84e4}
+      \strng{authornamehash}{2cf573319a02df313166c87e97cd84e4}
+      \strng{authorfullhash}{2cf573319a02df313166c87e97cd84e4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{american}
+      \field{month}{6}
+      \field{title}{Apple's Double Irish with a Dutch Sandwich –{} Juris}
+      \field{year}{2017}
+    \endentry
+    \entry{2022}{article}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Page Version ID: 1120745130}
+      \field{journaltitle}{Wikipedia}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{title}{Double Irish Arrangement}
+      \field{year}{2022}
+    \endentry
+    \entry{Adarov2021}{report}{}
+      \name{author}{4}{}{%
+        {{hash=d3b9ba50ebf1a68a60e09b3db1f86d62}{%
+           family={Adarov},
+           familyi={A\bibinitperiod},
+           given={Amat},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a5e11685c092535aa2e91ac5bae1434d}{%
+           family={Holzner},
+           familyi={H\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+        {{hash=54bd7c48d4c54b358bfcf35c64392ec2}{%
+           family={Jovanović},
+           familyi={J\bibinitperiod},
+           given={Branimir},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8429fb35aa460057680b3fa7b01842ee}{%
+           family={Vukšić},
+           familyi={V\bibinitperiod},
+           given={Goran},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The Vienna Institute for International Economic Studies, wiiw}%
+      }
+      \strng{namehash}{124c47f0d0193b30dd0c3d0bf5f2fd6d}
+      \strng{fullhash}{b654dd55bc8640c75db4e199c53a035e}
+      \strng{bibnamehash}{124c47f0d0193b30dd0c3d0bf5f2fd6d}
+      \strng{authorbibnamehash}{124c47f0d0193b30dd0c3d0bf5f2fd6d}
+      \strng{authornamehash}{124c47f0d0193b30dd0c3d0bf5f2fd6d}
+      \strng{authorfullhash}{b654dd55bc8640c75db4e199c53a035e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{number}{205}
+      \field{title}{Labour Taxes and International Trade: The Role of Domestic Labour Value Added}
+      \field{type}{Wiiw Working Papers}
+      \field{year}{2021}
+    \endentry
+    \entry{Holzner2021}{report}{}
+      \name{author}{3}{}{%
+        {{hash=a5e11685c092535aa2e91ac5bae1434d}{%
+           family={Holzner},
+           familyi={H\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+        {{hash=54bd7c48d4c54b358bfcf35c64392ec2}{%
+           family={Jovanović},
+           familyi={J\bibinitperiod},
+           given={Branimir},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8429fb35aa460057680b3fa7b01842ee}{%
+           family={Vukšić},
+           familyi={V\bibinitperiod},
+           given={Goran},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The Vienna Institute for International Economic Studies, wiiw}%
+      }
+      \strng{namehash}{b1a5b2e6bba8caf66635a4af77576ca3}
+      \strng{fullhash}{b1a5b2e6bba8caf66635a4af77576ca3}
+      \strng{bibnamehash}{b1a5b2e6bba8caf66635a4af77576ca3}
+      \strng{authorbibnamehash}{b1a5b2e6bba8caf66635a4af77576ca3}
+      \strng{authornamehash}{b1a5b2e6bba8caf66635a4af77576ca3}
+      \strng{authorfullhash}{b1a5b2e6bba8caf66635a4af77576ca3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{number}{212}
+      \field{title}{How Do Corporate Taxes Affect International Trade?}
+      \field{type}{Wiiw Working Papers}
+      \field{year}{2021}
+    \endentry
+    \entry{Krisch2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=47146260d40a85825e3f5f6351d93a43}{%
+           family={Krisch},
+           familyi={K\bibinitperiod},
+           given={Nico},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{47146260d40a85825e3f5f6351d93a43}
+      \strng{fullhash}{47146260d40a85825e3f5f6351d93a43}
+      \strng{bibnamehash}{47146260d40a85825e3f5f6351d93a43}
+      \strng{authorbibnamehash}{47146260d40a85825e3f5f6351d93a43}
+      \strng{authornamehash}{47146260d40a85825e3f5f6351d93a43}
+      \strng{authorfullhash}{47146260d40a85825e3f5f6351d93a43}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0938-5428}
+      \field{journaltitle}{European Journal of International Law}
+      \field{month}{5}
+      \field{number}{2}
+      \field{shorttitle}{Jurisdiction Unbound}
+      \field{title}{Jurisdiction Unbound: (Extra)Territorial Regulation as Global Governance}
+      \field{volume}{33}
+      \field{year}{2022}
+      \field{pages}{481\bibrangedash 514}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1093/ejil/chac028
+      \endverb
+    \endentry
+    \entry{Chaisse2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3b70405464674e7bf6320f2547dd4df5}{%
+           family={Chaisse},
+           familyi={C\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b70405464674e7bf6320f2547dd4df5}
+      \strng{fullhash}{3b70405464674e7bf6320f2547dd4df5}
+      \strng{bibnamehash}{3b70405464674e7bf6320f2547dd4df5}
+      \strng{authorbibnamehash}{3b70405464674e7bf6320f2547dd4df5}
+      \strng{authornamehash}{3b70405464674e7bf6320f2547dd4df5}
+      \strng{authorfullhash}{3b70405464674e7bf6320f2547dd4df5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Economic Review}
+      \field{month}{12}
+      \field{title}{International Investment Law and Taxation: From Coexistence to Cooperation}
+      \field{volume}{10}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 30}
+      \range{pages}{30}
+    \endentry
+    \entry{Bookman2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2e64de88acea3553351a30214a9d2721}{%
+           family={Bookman},
+           familyi={B\bibinitperiod},
+           given={Pamela\bibnamedelima K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e64de88acea3553351a30214a9d2721}
+      \strng{fullhash}{2e64de88acea3553351a30214a9d2721}
+      \strng{bibnamehash}{2e64de88acea3553351a30214a9d2721}
+      \strng{authorbibnamehash}{2e64de88acea3553351a30214a9d2721}
+      \strng{authornamehash}{2e64de88acea3553351a30214a9d2721}
+      \strng{authorfullhash}{2e64de88acea3553351a30214a9d2721}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{3338152}
+      \field{title}{The Adjudication Business}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.2139/ssrn.3338152
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

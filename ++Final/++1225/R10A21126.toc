@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Tax and Sovereignty}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Tax as Last Bastion of Westphalian Sovereignty}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Tax Avoidance and Evasion}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Tax Competition Hurts Sovereignty}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}International Tax Regime and Dispute Resolution}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Business, Tax, and Disputes}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}BEPS Actions, MAPs, and Arbitration}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Tax Treaty and Non-Tax Treaty}{6}{subsection.3.3}%
+\contentsline {section}{\numberline {4}International Tax Tribunal}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Review the Existing Dispute Resolution Systems}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Features of the International Tax Tribunal}{8}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Conclusion}{9}{section.5}%
